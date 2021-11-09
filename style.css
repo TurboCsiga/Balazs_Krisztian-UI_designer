@@ -1,0 +1,19 @@
+.menu{
+    background-color: lightgray;
+
+}
+.input{
+width: 100%;
+}
+button{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+div{
+    margin: auto;
+    width: 60%;
+}
+#hiba{
+    color: red;
+}
